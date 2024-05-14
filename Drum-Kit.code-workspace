@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Drum-Kit",
+			"path": "."
+		},
+		{
+			"name": "sounds",
+			"path": "../Mahi-Drum-Kit/sounds"
+		}
+	],
+	"settings": {}
+}
